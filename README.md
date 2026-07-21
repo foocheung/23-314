@@ -85,3 +85,8 @@ This is the key contrast for identifying treatment-specific TE reactivation asso
 The analysis will identify:
 
 * differentially expressed SoloTE features for each cell type and contrast
+
+
+## Dataset 2
+
+Dataset 2 (Day 0/Day 5 cohort): Based on CellRanger quality control documented during the original analysis by a previous analyst, only a single placebo subject (PBMC_covid01) and a single fostamatinib-treated subject (PBMC_Fosta002), each with matched Day 0 and Day 5 samples, were considered of sufficient quality for downstream analysis. The remaining samples were excluded due to poor sequencing and mapping quality. https://github.com/foocheung/23-314/blob/main/Dataset2.md
