@@ -2,8 +2,6 @@
 
 ## Overview
 
-Previous scRNA-seq analysis of PBMCs from fostamatinib-treated patients identified limited conventional differential gene expression in monocytes, but a stronger signal in dendritic cells.
-
 The purpose of this analysis is to use SoloTE to evaluate whether fostamatinib treatment is associated with changes in transposable element expression, particularly in monocytes and dendritic cells.
 
 ## CVFO Dataset
@@ -87,6 +85,3 @@ This is the key contrast for identifying treatment-specific TE reactivation asso
 The analysis will identify:
 
 * differentially expressed SoloTE features for each cell type and contrast
-* TE signatures associated with fostamatinib treatment
-* TE responses specific to monocytes and dendritic cells
-* candidate TE features for comparison with the earlier Day 3 or Day 5 fostamatinib dataset
